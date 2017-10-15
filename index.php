@@ -10,7 +10,7 @@
 
 
 $month = date("m");
-$date = date("d-m");
+$date = date("d-m-y");
 
 echo ("Datum van vandaag: ". $date. PHP_EOL. ("<br>"));
 
